@@ -1,6 +1,6 @@
-let myname = 'Adetoyese Samson'
-let height = '175cm'
-let country = 'Nigeria'
+let myname = 'Name - Adetoyese Samson'
+let height = 'Height - 175cm'
+let country = 'Country - Nigeria'
 
 console.log(myname);
 console.log(height);
